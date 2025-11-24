@@ -66,7 +66,7 @@ function Footer() {
 
             
             
-            <div className='mt-5  text-center' style={{ fontSize: "14px", color:"rgb(100,100,100)"}}>
+            <div className='mt-5 mb-5 text-center' style={{ fontSize: "14px", color:"rgb(100,100,100)"}}>
             NSE &nbsp;&nbsp;&nbsp;   BSE   &nbsp;&nbsp;&nbsp; MCX   &nbsp;&nbsp;&nbsp; Terms & conditions   &nbsp;&nbsp;&nbsp; Policies & procedures &nbsp;&nbsp;&nbsp;   Privacy policy &nbsp;&nbsp;&nbsp;   Disclosure   &nbsp;&nbsp;&nbsp; For investor's  &nbsp;&nbsp;&nbsp;  attention  &nbsp;&nbsp;&nbsp;  Investor charter &nbsp;&nbsp;&nbsp;
              </div>
 
