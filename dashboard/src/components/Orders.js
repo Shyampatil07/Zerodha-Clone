@@ -7,7 +7,7 @@ const Orders = () => {
   const [allOrders, setAllOrders] = useState([]);
 
 useEffect(() => {
-  axios.get("http://localhost:3002/newOrder").then((res) =>{
+  axios.get("http://localhost:3002/allOrder").then((res) =>{
       console.log(res.data);
       setAllOrders(res.data);
   });
@@ -17,16 +17,16 @@ useEffect(() => {
   return (
 
     <div className="orders">
-      <div className="no-orders">
+      {/* <div className="no-orders">
         <p>You haven't placed any orders today</p>
 
         <Link to={"/"} className="btn">
           Get started
         </Link>
-      </div>
+      </div> */}
   
 
- <h3 className="title">Holdings ({allOrders.length})</h3>
+ <h3 className="title">Orders ({allOrders.length})</h3>
 
       <div className="order-table">
         <table>
@@ -37,10 +37,7 @@ useEffect(() => {
             <th>Mode</th>
             
           </tr>
-          name: String,
-    qty: Number,
-    price: Number,
-    mode: String,
+         
 
               {allOrders.map((stock, index) => {
            
