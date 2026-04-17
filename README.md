@@ -1,8 +1,7 @@
-<h1>📈 StockEdge(Zerodha-Clone) – Full Stack Stock Trading Platform
+<h1>📈 StockEdge(Zerodha-Clone) – Full Stack Stock Trading Platform</h1>
 
-StockEdge is a full-stack stock trading web application that allows users to securely buy and sell stocks, track their portfolio, and visualize real-time stock data with interactive charts.</h1>
+<h2>StockEdge is a full-stack stock trading web application that allows users to securely buy and sell stocks, track their portfolio, and visualize real-time stock data with interactive charts.</h2>
 
-![My Model](https://github.com/Shyampatil07/Airbnb/blob/main/Screenshot(5).png?raw=true)
 
 <b>🚀 Features</b><br><br>
 <b>🔐 User Authentication</b><br>
