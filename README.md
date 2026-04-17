@@ -40,3 +40,6 @@ StockEdge/<br>
 ├── controllers/    # Business Logic<br>
 ├── middleware/     # Auth Middleware<br>
 └── config/         # DB & Server Config<br>
+
+
+hashtag#WebDevelopment hashtag#FullStack hashtag#NodeJS hashtag#MongoDB hashtag#Express hashtag#Stock#UI#EJS#MVC#Zerodha#MERN<br>
