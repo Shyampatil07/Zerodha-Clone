@@ -16,20 +16,20 @@ StockEdge is a full-stack stock trading web application that allows users to sec
 <b>📱 Responsive UI</b><br>
   .Works seamlessly across devices<br><br>
 <b>🛠️ Tech Stack</b><br><br>
-<b>Frontend</b><br>
+<b>Frontend :</b><br>
 .React.js<br>
 .Material UI (MUI)<br>
 .Tailwind CSS<br>
 .Bootstrap<br>
 .React Hook Form<br>
 .Chart.js<br><br>
-<b>Backend</b><br>
+<b>Backend :</b><br>
 .Node.js<br>
 .Express.js<br>
 .REST APIs<br><br>
-<b>Database </b><br>
+<b>Database :</b><br>
 .MongoDB<br><br>
-<b>Authentication</b><br>
+<b>Authentication :</b><br>
 .JSON Web Token (JWT)<br><br>
 <b>📂 Project Structure</b><br><br>
 StockEdge/<br>
