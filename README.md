@@ -5,8 +5,8 @@ StockEdge is a full-stack stock trading web application that allows users to sec
 ![My Model](https://github.com/Shyampatil07/Airbnb/blob/main/Screenshot(5).png?raw=true)
 
 <b>🚀 Features</b><br>
-🔐 User Authentication<br>
-Secure login/signup using JWT<br>
+.🔐 User Authentication<br>
+   .Secure login/signup using JWT<br>
 💰 Buy & Sell Stocks<br>
 Real-time trading functionality<br>
 📊 Stock Data Visualization<br>
