@@ -14,24 +14,24 @@ Interactive charts using Chart.js<br>
 <b>📁 Portfolio Management</b><br>
 Track holdings and transactions<br>
 <b>📱 Responsive UI</b><br>
-Works seamlessly across devices<br>
-<b>🛠️ Tech Stack</b><br>
+Works seamlessly across devices<br><br>
+<b>🛠️ Tech Stack</b><br><br>
 <b>Frontend</b><br>
 React.js<br>
 Material UI (MUI)<br>
 Tailwind CSS<br>
 Bootstrap<br>
 React Hook Form<br>
-Chart.js<br>
+Chart.js<br><br>
 <b>Backend</b><br>
 Node.js<br>
 Express.js<br>
-REST APIs<br>
+REST APIs<br><br>
 <b>Database </b><br>
-MongoDB<br>
+MongoDB<br><br>
 <b>Authentication</b><br>
-JSON Web Token (JWT)<br>
-<b>📂 Project Structure</b><br>
+JSON Web Token (JWT)<br><br>
+<b>📂 Project Structure</b><br><br>
 StockEdge/<br>
 │
 ├── client/         # React Frontend<br>
