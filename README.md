@@ -4,34 +4,34 @@ StockEdge is a full-stack stock trading web application that allows users to sec
 
 ![My Model](https://github.com/Shyampatil07/Airbnb/blob/main/Screenshot(5).png?raw=true)
 
-<b>🚀 Features</b><br>
-.🔐 User Authentication<br>
+<b>🚀 Features</b><br><br>
+<b>🔐 User Authentication</b><br>
    .Secure login/signup using JWT<br>
-💰 Buy & Sell Stocks<br>
+<b>💰 Buy & Sell Stocks</b><br>
 Real-time trading functionality<br>
-📊 Stock Data Visualization<br>
+<b>📊 Stock Data Visualization</b><br>
 Interactive charts using Chart.js<br>
-📁 Portfolio Management<br>
+<b>📁 Portfolio Management</b><br>
 Track holdings and transactions<br>
-📱 Responsive UI<br>
+<b>📱 Responsive UI</b><br>
 Works seamlessly across devices<br>
-🛠️ Tech Stack<br>
-Frontend<br>
+<b>🛠️ Tech Stack</b><br>
+<b>Frontend</b><br>
 React.js<br>
 Material UI (MUI)<br>
 Tailwind CSS<br>
 Bootstrap<br>
 React Hook Form<br>
 Chart.js<br>
-Backend<br>
+<b>Backend</b><br>
 Node.js<br>
 Express.js<br>
 REST APIs<br>
-Database<br>
+<b>Database </b><br>
 MongoDB<br>
-Authentication<br>
+<b>Authentication</b><br>
 JSON Web Token (JWT)<br>
-📂 Project Structure<br>
+<b>📂 Project Structure</b><br>
 StockEdge/<br>
 │
 ├── client/         # React Frontend<br>
